@@ -4,6 +4,7 @@ from scipy import stats
 import matplotlib.pyplot as plt
 import seaborn as sns
 
+#comment change
 df = pandas.read_csv('/Users/Brittney/Desktop/NYCdata.csv')
 
 print(df.info())
